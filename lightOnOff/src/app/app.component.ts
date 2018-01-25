@@ -18,7 +18,7 @@ export class AppComponent {
   }];
   public lineChartLabels:Array<any>=[];
   public lineChartOptions:any={
-	responsive:true;
+	responsive:true
   };
   
   public lineChartColors: Array<any> = [
